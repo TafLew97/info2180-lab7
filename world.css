@@ -1,0 +1,23 @@
+#controls{
+	color:white;
+}
+
+#result{
+	color: white;
+}
+
+body
+{
+    margin: auto;
+    background-color: darkblue;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    font-family: sans-serif;
+    padding: 20px;
+    color:white;
+}
+
+h1{
+	color:white;
+	font-family: "Algerian", cursive;
+}
